@@ -1,5 +1,5 @@
-# https://github.com/Imshukla87/SHUKLA-ROBOT
-# https://github.com/Imshukla87
+# https://github.com/Moonshining6/SHUKLA-ROBOT
+# https://github.com/Moonshining6
 
 # <============================================== IMPORTS =========================================================>
 import asyncio
@@ -189,13 +189,13 @@ ALIVE_MSG = """
 """
 
 ALIVE_IMG = [
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
+    "https://telegra.ph/file/a23c40392feb81379d74d.jpg",
+    "https://telegra.ph/file/904b7ce31b8214cb44052.jpg",
+    "https://telegra.ph/file/a23c40392feb81379d74d.jpg",
+    "https://telegra.ph/file/904b7ce31b8214cb44052.jpg",
+    "https://telegra.ph/file/a23c40392feb81379d74d.jpg",
+    "https://telegra.ph/file/904b7ce31b8214cb44052.jpg",
+    "https://telegra.ph/file/a23c40392feb81379d74d.jpg",
 ]
 # <=======================================================================================================>
 
