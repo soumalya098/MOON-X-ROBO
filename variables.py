@@ -1,5 +1,5 @@
-# https://github.com/Imshukla87/SHUKLA-ROBOT
-# https://github.com/Imshukla87
+# https://github.com/Moonshining6/MOON-X-ROBO
+# https://github.com/Moonshining6
 
 
 class Config(object):
@@ -10,8 +10,8 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 29308061  # Get this value from my.telegram.org/apps
-    API_HASH = "462de3dfc98fd938ef9c6ee31a72d099"
+    API_ID = 29028757  # Get this value from my.telegram.org/apps
+    API_HASH = "7e89f87ef8a48b909b08a924729c4fd3"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
@@ -24,8 +24,8 @@ class Config(object):
     MONGO_DB_URI = "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "mastiwithfriendsx"
-    SUPPORT_ID = -1001766825642
+    SUPPORT_CHAT = "MILKY_WAY_45"
+    SUPPORT_ID = -1001946286357
 
     # Database name
     DB_NAME = "MikoDB"
@@ -34,7 +34,7 @@ class Config(object):
     TOKEN = "2323839365:AAFgfdadqawlfdsM7slOa33eM_ghop"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 6919199044
+    OWNER_ID = 6084527452
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
