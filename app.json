@@ -1,9 +1,9 @@
 {
-   "name": "𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾",
+   "name": "˹𝑱𝙚𝙣𝙣𝙞𝙚 ✘𝙍𝙤𝙗𝙤 ˼ ~🥀",
    "description": "A versatile Telegram Group Management Bot.",
-   "logo": "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
+   "logo": "https://telegra.ph/file/904b7ce31b8214cb44052.jpg",
    "keywords": ["telegram", "modular", "group", "management", "Miko"],
-   "repository": "https://github.com/SHIVANSH474/SHUKLA-ROBOT",
+   "repository": "https://github.com/Moonshining6/MOON-X-ROBO",
    "stack": "heroku-22",
    "addons": [
       {
