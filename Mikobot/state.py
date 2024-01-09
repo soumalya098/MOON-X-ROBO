@@ -1,5 +1,5 @@
-# https://github.com/Imshukla87/SHUKLA-ROBOT
-# https://github.com/Imshukla87
+# https://github.com/Moonshining6/SHUKLA-ROBOT
+# https://github.com/Moonshining6
 
 # <============================================== IMPORTS =========================================================>
 from aiohttp import ClientSession
