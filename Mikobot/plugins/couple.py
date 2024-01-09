@@ -32,11 +32,11 @@ def dt_tom():
 tomorrow = str(dt_tom())
 today = str(dt()[0])
 
-COUPLES_PIC = "https://telegra.ph/file/c6d0c884f559b9ed8a54e.jpg"
+COUPLES_PIC = "https://telegra.ph/file/eaa15db56d4960c6131e6.jpg"
 C = """
 ✧ 𝗖𝗢𝗨𝗣𝗟𝗘𝗦 𝗢𝗙 𝗧𝗛𝗘 𝗗𝗔𝗬 ✧
 ➖➖➖➖➖➖➖➖➖➖➖➖
-{} + ( PGM🎀😶 (https://t.me/Chalnayaaaaaarr) + 花火 (https://t.me/zd_sr07) + ゼロツー (https://t.me/wewewe_x) ) = 💞
+{} + ( PGM🎀😶 (https://t.me/SHIZZUUU_OP) + 花火 (https://t.me/synax_Creator) + ゼロツー (https://t.me/ABOUT_SNX_MOON) ) = 💞
 ➖➖➖➖➖➖➖➖➖➖➖➖
 𝗡𝗘𝗪 𝗖𝗢𝗨𝗣𝗟𝗘 𝗢𝗙 𝗧𝗛𝗘 𝗗𝗔𝗬 𝗖𝗔𝗡 𝗕𝗘 𝗖𝗛𝗢𝗦𝗘𝗡 𝗔𝗧 12AM {}
 """
