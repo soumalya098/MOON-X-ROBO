@@ -45,7 +45,7 @@ COMMAND_HANDLER = "/"
 
 FILLERS = {}
 
-BOT_OWNER = list({int(x) for x in ("5907205317").split()})
+BOT_OWNER = list({int(x) for x in ("6084527452").split()})
 
 _MGCLIENT: AgnosticClient = AsyncIOMotorClient(MONGO_DB_URI)
 
