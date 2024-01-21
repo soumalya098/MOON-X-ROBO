@@ -10,15 +10,15 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 29028757  # Get this value from my.telegram.org/apps
-    API_HASH = "7e89f87ef8a48b909b08a924729c4fd3"
+    API_ID = 24040183  # Get this value from my.telegram.org/apps
+    API_HASH = "d236dffc3dd60f89a149557898370e74"
 
     # Database configuration (PostgreSQL)
     DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -1002018556839
-    MESSAGE_DUMP = -1001766825642
+    EVENT_LOGS = -1002079339659
+    MESSAGE_DUMP = -1001946286357
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
