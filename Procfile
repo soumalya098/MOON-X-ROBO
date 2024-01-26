@@ -1,1 +1,2 @@
-worker: python3 -m Mikobot
+web: python -m http.server $PORT 
+worker: python3 -m AnonX
